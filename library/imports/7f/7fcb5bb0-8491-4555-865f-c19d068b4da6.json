@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "playShips.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "playerShip1_blue": {
+      "__uuid__": "6f73c662-4859-4172-8db2-b17975b6ef12"
+    },
+    "playerShip1_green": {
+      "__uuid__": "c9ce750d-06da-4c1d-a4ea-de3ba7cb0acc"
+    },
+    "playerShip1_orange": {
+      "__uuid__": "313a5afd-44e4-462c-bf08-f68c6a666738"
+    },
+    "playerShip1_red": {
+      "__uuid__": "8fbdefc7-e1a2-4254-958a-a447e0f2904c"
+    },
+    "playerShip2_blue": {
+      "__uuid__": "e5b67d2f-bf4f-4faa-a9e8-b1722cf8d1dc"
+    },
+    "playerShip2_green": {
+      "__uuid__": "c591dba0-a87c-4b2d-b8d6-ab145064c773"
+    },
+    "playerShip2_orange": {
+      "__uuid__": "75fa5975-5890-4698-a0e3-b541f1fd5d5b"
+    },
+    "playerShip2_red": {
+      "__uuid__": "ddce2a2c-28c6-4f45-ad0f-dda1a745bd85"
+    },
+    "playerShip3_blue": {
+      "__uuid__": "627834cf-e05d-4868-81ab-c096966af845"
+    },
+    "playerShip3_green": {
+      "__uuid__": "a6b31565-94b4-4cc6-91d6-bd1c267cc480"
+    },
+    "playerShip3_orange": {
+      "__uuid__": "8b8d46b0-95b6-4226-9f58-77a06f329912"
+    },
+    "playerShip3_red": {
+      "__uuid__": "b55a7171-3680-4c38-8122-0ca8453cfc2d"
+    },
+    "ufoBlue": {
+      "__uuid__": "bfc132e5-9c57-480a-ba4a-ad1e06802cdd"
+    },
+    "ufoGreen": {
+      "__uuid__": "0e06956c-3a45-48b8-80fe-3e37a92b16c4"
+    },
+    "ufoRed": {
+      "__uuid__": "7339ec41-19a8-44db-9d58-a5eb85393733"
+    },
+    "ufoYellow": {
+      "__uuid__": "93f1276f-f4d3-4bca-bac1-b35b88a9946a"
+    }
+  }
+}
